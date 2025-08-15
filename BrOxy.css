@@ -1,0 +1,30 @@
+   body {
+    background-color: goldenrod;
+    /* font-family:'Roboto', sans-serif;  */
+   }
+    h1{ 
+    /* text-align: center; */
+            }
+        h1{
+            /* color: darkolivegreen; */
+        }
+    h2{ 
+        text-align: center;
+    }
+   div h2{ color: crimson;
+   }
+   img{
+    display: block;
+   }
+   div p{color: maroon;}
+p { 
+    color: white;  
+      font-size: 20px; 
+     }
+#parrafo-te-quiero{ 
+    font-size: 1.5em;
+    font-weight: bold;
+}
+img{ 
+    margin: auto;
+}
